@@ -1,8 +1,22 @@
-# React + Vite
+# React Blog Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple blog application built using React Router DOM. It mimics the layout and functionality of the blog section of the website guvi.in/blog. Below are some key features of this project:
 
-Currently, two official plugins are available:
+1. **Navbar Using React Router DOM:**
+   - The navbar is created using the `<Router>` method provided by React Router DOM.
+   - Each menu item in the navbar is a `<Link>` component that directs the user to different routes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. **Path Name Changes with Menu Item Click:**
+   - When each menu item is clicked in the navbar, the path name changes accordingly.
+   - This allows for smooth navigation between different sections of the blog.
+
+3. **Local Data Using blogData.json:**
+   - The blog content is stored locally in a separate file named `blogData.json`.
+   - This file contains an array of JSON objects, each representing a blog post with properties like title, author, publication date, etc.
+
+4. **Categorization Using Props and .filter() Method:**
+   - Courses are categorized on each component page using props and the `.filter()` method.
+   - Based on the selected category, only the relevant blog posts are displayed on the component page.
+
+Click [here](https://shark-react-router-guvi-blog.netlify.app/) to view the deployed code.
+
