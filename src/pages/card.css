@@ -1,0 +1,125 @@
+.trending-card {
+    width: 100%;
+  
+    .card {
+      height: 100%;
+        box-shadow: 0 6px 10px 0 rgba(0,0,0,.15);
+      .card-img-top > img {
+        width: 100%;
+        height: 11.3125rem;
+        border-top-left-radius: 0.25rem;
+        border-top-right-radius: 0.25rem;
+        object-fit: cover;
+      }
+    
+      .card-body {
+        color: #707070;
+        position: relative;
+    
+        .card-author {
+          #by {
+            color: #aaa;
+          }
+    
+          a {
+            color: #707070;
+          }
+        } 
+    
+        .card-title {
+          display: block;
+          min-height: 5rem;
+          font-size: 1.125rem !important;
+        }
+        .card-author,
+      .card-text {
+        font-size: 0.875rem !important;
+      }
+      }
+    
+      #views-section {
+        right: 1rem;
+        top: 1rem;
+        font-size: 0.875rem;
+    
+        .card-views {
+          color: #2a2a2a;
+        }
+    
+        .newly-pub {
+          background: #D1E9FE;
+          color: #0F3FB5;
+        }
+      }
+    }
+  
+    .card:hover {
+        box-shadow: 0 6px 10px 0 #0dba4b;
+    }
+    &.direction-row {
+      .card {
+        display: grid;
+        grid-template-columns: 35% 1fr;
+        grid-template-rows: auto;
+        border: 1px solid #E3E3E3 !important;
+        padding: 1rem;
+  
+        .card-img-top > img {
+          width: 100%;
+          height: 100%;
+          object-fit: fill;
+          border-radius: 0.25rem;
+        }
+  
+        .card-body {
+          padding: 0 1rem !important;
+        }
+      }
+    }
+  
+    &.top-card {
+      height: 100%;
+  
+      .card {
+        border: 1px solid #E3E3E3 !important;
+        padding: 1rem;
+        height: inherit;
+  
+        .card-img-top > img {
+          height: auto;
+        }
+      }
+    }
+  
+    &.top-card,
+    &.direction-row {
+      .card-body {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+    }
+  
+    @media screen and (max-width: 560px) {
+      &.direction-row {
+        .card {
+          grid-template-columns: 100%;
+  
+          .card-img-top > img {
+            display: none;
+          }
+        }
+      }
+  
+      .card-title {
+        min-height: auto !important;
+      }
+  
+      &.top-card {
+        .card-title {
+          font-size: 1.25rem !important;
+        }
+      }
+    }
+  
+}
