@@ -6,7 +6,7 @@
     "date": "04 Oct, 2023",
     "readTime": "16 Min Read",
     "link": "https://www.guvi.in/blog/what-is-cybersecurity/",
-    "image_url": "./src/assets/blogImages/cybersecurity.gif" 
+    "image_url": "https://community.nasscom.in/sites/default/files/media/images/cybersecurity%20security%20infosec%20art%20getty.jpg" 
   },
   {
     "postUrl": "https://www.guvi.in/blog/real-world-data-science-examples/",
@@ -25,7 +25,7 @@
     "date": "05 Oct, 2023",
     "readTime": "15 Min Read",
     "link": "https://www.guvi.in/blog/coding-for-cybersecurity/",
-    "image_url": "./src/assets/blogImages/isCodingrequired.webp"
+    "image_url": "https://community.nasscom.in/sites/default/files/media/images/cybersecurity%20security%20infosec%20art%20getty.jpg"
   },
   {
     "head": "Cyber Security",
@@ -34,11 +34,11 @@
     "date": "07 Oct, 2023",
     "readTime": "11 Min Read",
     "link": "https://www.guvi.in/blog/cybersecurity-certifications/",
-    "image_url": "./src/assets/blogImages/cyberSurge.webp"
+    "image_url": "https://community.nasscom.in/sites/default/files/media/images/cybersecurity%20security%20infosec%20art%20getty.jpg"
   },
   {
     "postUrl": "https://www.guvi.in/blog/amazon-data-scientist-interview-questions/",
-    "image_url": "./src/assets/blogImages/amazon-datascience-interview.webp",
+    "image_url": "https://www.discoverdatascience.org/wp-content/uploads/2023/01/data-science-education.jpg",
     "title": "Top 100 Amazon Data Scientist Interview Questions!",
     "author": "Archana",
     "publicationDate": "05 Oct, 2023",
@@ -48,7 +48,7 @@
   },
   {
     "postUrl": "https://www.guvi.in/blog/can-commerce-students-do-data-science/",
-    "image_url": "./src/assets/blogImages/data-science.png",
+    "image_url": "https://www.discoverdatascience.org/wp-content/uploads/2023/01/data-science-education.jpg",
     "title": "Can A Commerce Student Do Data Science?",
     "author": "Saakshi Priyadarshini",
     "publicationDate": "08 Sep, 2023",
@@ -58,7 +58,7 @@
   },
   {
     "postUrl": "https://www.guvi.in/blog/roles-and-responsibilities-of-a-data-scientist/",
-    "image_url": "./src/assets/blogImages/rolesNresponsibilty.webp",
+    "image_url": "https://www.discoverdatascience.org/wp-content/uploads/2023/01/data-science-education.jpg",
     "title": "Roles and Responsibilities of a Data Scientist",
     "author": "Jaishree Tomar",
     "publicationDate": "20 Oct, 2023",
@@ -68,7 +68,7 @@
   },
   {
     "postUrl": "https://www.guvi.in/blog/prerequisites-for-reactjs/",
-    "image_url": "./src/assets/blogImages/6essentialprereq.jpg",
+    "image_url": "https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg",
     "title": "6 Essential Prerequisites For Learning ReactJS",
     "author": "Ramkumar",
     "publicationDate": "06 Oct, 2023",
@@ -96,7 +96,7 @@
   },
   {
     "postUrl": "https://www.guvi.in/blog/data-science-vs-data-analytics-career/",
-    "image_url": "./src/assets/blogImages/datascience-vs-dataanalytics.webp",
+    "image_url": "https://www.discoverdatascience.org/wp-content/uploads/2023/01/data-science-education.jpg",
     "title": "Data Science vs Data Analytics | Best Career Choice in 2024",
     "author": "Lahari Chandana",
     "publicationDate": "14 Dec, 2023",
@@ -125,7 +125,7 @@
   },
   {
     "postUrl": "https://www.guvi.in/blog/how-does-apache-work/",
-    "image_url": "./src/assets/blogImages/how-does-apache-work.webp",
+    "image_url": "https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg",
     "title": "How does Apache work? A detailed introduction to Apache",
     "author": "Tushar Vinocha",
     "publicationDate": "03 Oct, 2023",
@@ -137,14 +137,14 @@
     "head": "Career",
     "title": "Power BI Developer 2024: Career, Skills, Role, Salary, Scope",
     "url": "https://www.guvi.in/blog/power-bi-developer-roles-skills-salary-scope/",
-    "image_url": "./src/assets/blogImages/power-bi-featured-image.jpg",
+    "image_url": "https://empxtrack.com/wp-content/uploads/2009/03/career-development.jpg",
     "author": "Saakshi Priyadarshini",
     "date": "23 Feb, 2024",
     "readTime": "21 Min Read"
   },
   {
     "postUrl": "https://www.guvi.in/blog/how-to-become-data-scientist-after-mechanical-engineering/",
-    "image_url": "./src/assets/blogImages/how-to-become-data-scientist.jpg",
+    "image_url": "https://www.discoverdatascience.org/wp-content/uploads/2023/01/data-science-education.jpg",
     "title": "How to become a Data Scientist after Mechanical Engineering?",
     "author": "Lahari Chandana",
     "publicationDate": "03 Oct, 2023",
@@ -183,7 +183,7 @@
   },
   {
     "postUrl": "https://www.guvi.in/blog/how-long-would-it-take-to-learn-data-science/",
-    "image_url": "./src/assets/blogImages/How-Long-Would-It-Take-to-Learn-Data-Science.webp",
+    "image_url": "https://www.discoverdatascience.org/wp-content/uploads/2023/01/data-science-education.jpg",
     "title": "How Long Would It Take to Learn Data Science?",
     "author": "Meghana D",
     "publicationDate": "20 Oct, 2023",
@@ -208,7 +208,7 @@
     "date": "04 Oct, 2023",
     "readTime": "20 Min Read",
     "link": "https://www.guvi.in/blog/difference-between-cybersecurity-and-ethical-hacking/",
-    "image_url": "./src/assets/blogImages/cybersecurity-vs-ethicalhacking.webp"
+    "image_url": "https://community.nasscom.in/sites/default/files/media/images/cybersecurity%20security%20infosec%20art%20getty.jpg"
   },
   {
     "head": "Career",
@@ -235,7 +235,7 @@
     "date": "05 Oct, 2023",
     "readTime": "11 Min Read",
     "link": "https://www.guvi.in/blog/cyber-security-attacks-in-real-life/",
-    "image_url": "./src/assets/blogImages/top7.jpg"
+    "image_url": "https://community.nasscom.in/sites/default/files/media/images/cybersecurity%20security%20infosec%20art%20getty.jpg"
   },
   {
     "head": "Career",
@@ -248,7 +248,7 @@
   },
   {
     "postUrl": "https://www.guvi.in/blog/full-stack-developer-syllabus/",
-    "image_url": "./src/assets/blogImages/hot-topics-that-you-need-to-know.webp",
+    "image_url": "https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg",
     "title": "Hot Topics That You Need To Know In Full Stack Developer Syllabus | 2024 [U...",
     "author": "Archana",
     "publicationDate": "14 Dec, 2023",
@@ -258,7 +258,7 @@
   },
   {
     "postUrl": "https://www.guvi.in/blog/web-development-roadmap-for-beginners/",
-    "image_url": "./src/assets/blogImages/best-web-dev-roadmap.jpg",
+    "image_url": "https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg",
     "title": "Best Web Development Roadmap for Beginners 2024",
     "author": "Isha Sharma",
     "publicationDate": "14 Dec, 2023",
@@ -268,7 +268,7 @@
   },
   {
     "postUrl": "https://www.guvi.in/blog/full-stack-development-project-ideas/",
-    "image_url": "./src/assets/blogImages/best-fsd-roadmap.jpg",
+    "image_url": "https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg",
     "title": "Best Full-Stack Development Project Ideas in 2024",
     "author": "Isha Sharma",
     "publicationDate": "13 Dec, 2023",
@@ -287,7 +287,7 @@
   },
   {
     "postUrl": "https://www.guvi.in/blog/top-full-stack-web-developer-coding-projects/",
-    "image_url": "./src/assets/blogImages/8TopFsd.jpg",
+    "image_url": "https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg",
     "title": "8 Top Full Stack Web Developer Coding Projects For You!",
     "author": "Archana",
     "publicationDate": "06 Oct, 2023",
@@ -311,7 +311,7 @@
     "date": "08 Sep, 2023",
     "readTime": "17 Min Read",
     "link": "https://www.guvi.in/blog/types-of-cybersecurity/",
-    "image_url": "./src/assets/blogImages/8-different-types-of-cybersecurity.webp"
+    "image_url": "https://community.nasscom.in/sites/default/files/media/images/cybersecurity%20security%20infosec%20art%20getty.jpg"
   },
   {
     "head": "Career",
